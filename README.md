@@ -9,12 +9,17 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
+Það gekk mjög vel að setja þessi tól upp. Ég skrifaði inn skipanirnar og vim og git  voru sett upp.
 
 ## 3. Unnið með Git (1. hluti)
 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
 
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+
+Það gekk mjög vel að forka verkefnið. Þegar ég var búinn að ýta á fork á Github, afritaði ég linkinn á forkaða verkefnið inn í clone skipunina og verkefnið kom inn um leið.
+Hér er linkur á verkefnið.
+https://github.com/bergthor13/INTOPrufa.git
 
 ## 4. Uppsettur hugbúnaður
 
