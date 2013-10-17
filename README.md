@@ -2,7 +2,7 @@
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
-- Bergþór Þrastarson
+- Bergþór Þrastarson.
 
 ## 1. Linux uppsetning
 
