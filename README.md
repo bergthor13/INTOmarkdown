@@ -35,18 +35,24 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 Hér eru forrit sem ég er með.
 
 **VLC**
-Hér er hægt að ná í kóðann fyrir VLC.
+
+Hér er hægt að ná í kóðann fyrir VLC:
 http://www.videolan.org/vlc/download-sources.html
+
 Leyfið sem VLC er gefið undir er: LGPL
 
 **Audacity**
-Hér er hægt að ná í kóðann fyrir Audacity.
+
+Hér er hægt að ná í kóðann fyrir Audacity:
 http://audacity.sourceforge.net/download/source
+
 Leyfið sem Audacity er gefið undir er: GNU
 
 **Firefox**
-Hér er hægt að ná í kóðann fyrir Firefox.
+
+Hér er hægt að ná í kóðann fyrir Firefox:
 https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives
+
 Leyfið sem Firefox er gefið undir er: Mozilla Public License
 
 ## 5. Unnið með Git (2. hluti)
@@ -84,18 +90,21 @@ Hér eru forrit sem ég er með.
 
 **VLC**
 
-Hér er hægt að ná í kóðann fyrir VLC.
+Hér er hægt að ná í kóðann fyrir VLC:
 http://www.videolan.org/vlc/download-sources.html
+
 Leyfið sem VLC er gefið undir er: LGPL
 
 **Audacity**
 
-Hér er hægt að ná í kóðann fyrir Audacity.
+Hér er hægt að ná í kóðann fyrir Audacity:
 http://audacity.sourceforge.net/download/source
+
 Leyfið sem Audacity er gefið undir er: GNU
 
 **Firefox**
 
-Hér er hægt að ná í kóðann fyrir Firefox.
+Hér er hægt að ná í kóðann fyrir Firefox:
 https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives
+
 Leyfið sem Firefox er gefið undir er: Mozilla Public License
