@@ -24,7 +24,7 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
-Það gekk mjög vel að forka verkefnið. Þegar ég var búinn að ýta á fork á Github, afritaði ég linkinn á forkaða verkefnið inn í clone skipunina og verkefnið kom inn um leið. Síðan opnaði ég VIM og bætti cout skipuninni við. Var þó að ströggla við að loka VIM aftur. Síðan var það einfalt að 'committa' og push-a breytingunum. Að bæta SSH lyklinum var einfalt.
+Það gekk mjög vel að forka verkefnið. Þegar ég var búinn að ýta á fork á Github, afritaði ég linkinn á forkaða verkefnið inn í clone skipunina og verkefnið kom inn um leið. Síðan opnaði ég VIM og bætti cout skipuninni við. Var þó að ströggla við að loka VIM aftur. Síðan var það einfalt að 'committa' og push-a breytingunum. Að bæta SSH lyklinum við var einfalt.
 
 Hér er linkur á verkefnið:
 https://github.com/bergthor13/INTOPrufa.git
@@ -78,7 +78,7 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
-Það gekk mjög vel að forka verkefnið. Þegar ég var búinn að ýta á fork á Github, afritaði ég linkinn á forkaða verkefnið inn í clone skipunina og verkefnið kom inn um leið. Síðan opnaði ég VIM og bætti cout skipuninni við. Var þó að ströggla við að loka VIM aftur. Síðan var það einfalt að 'committa' og push-a breytingunum. Að bæta SSH lyklinum var einfalt.
+Það gekk mjög vel að forka verkefnið. Þegar ég var búinn að ýta á fork á Github, afritaði ég linkinn á forkaða verkefnið inn í clone skipunina og verkefnið kom inn um leið. Síðan opnaði ég VIM og bætti cout skipuninni við. Var þó að ströggla við að loka VIM aftur. Síðan var það einfalt að 'committa' og push-a breytingunum. Að bæta SSH lyklinum við var einfalt.
 
 Hér er linkur á verkefnið.
 https://github.com/bergthor13/INTOPrufa.git
