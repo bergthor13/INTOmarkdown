@@ -8,7 +8,9 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-Það gekk ágætlega að setja upp Linux. Ég notaði VirtualBox því að ég þekki það forrit vel. Þó kom villa þegar ég kveikti á sýndarvélinni að það vantaði stuðning fyrir USB Controller. Þannig að ég slökkti á þeim eiginleika og komst þá inn. Hér fyrir neðan er mynd af tölvunni að ræsa Linux.
+Það gekk ágætlega að setja upp Linux. Ég notaði VirtualBox því að ég þekki það forrit vel. Þó kom villa þegar ég kveikti á sýndarvélinni að það vantaði stuðning fyrir USB Controller. Þannig að ég slökkti á þeim eiginleika og komst þá inn. Hér fyrir neðan eru myndir af tölvunni að ræsa Linux.
+![Mynd 1](https://dl.dropboxusercontent.com/u/619192/INTO/photo%201.JPG)
+![Mynd 2](https://dl.dropboxusercontent.com/u/619192/INTO/photo%202.JPG)
 
 ## 2. Uppsetning á vim && git
 
