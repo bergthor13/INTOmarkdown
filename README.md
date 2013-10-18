@@ -59,6 +59,8 @@ Leyfið sem Firefox er gefið undir er: Mozilla Public License
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
 
+Það gekk mjög vel að vinna með Markdown. Fannst þó leiðbeiningarnar um markdown sem vísað er í í verkefnislýsingunni gefa litlar upplýsingar um það sem þurfti að gera í verkefninu.
+
 Hérna eru sömu niðurstöður aftur. :)
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
